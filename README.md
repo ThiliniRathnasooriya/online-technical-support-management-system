@@ -13,10 +13,10 @@ Remember to save the file as a php file. (example -> file.php)
  //////////example/////////
  
  
-     <?php
+    <?php
         include 'header.php';
     ?> 
-     <?php
+    <?php
         include 'headerfile.php';
     ?> 
     
