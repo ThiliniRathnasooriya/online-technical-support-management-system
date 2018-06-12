@@ -45,5 +45,5 @@ Remember to save the file as a php file. (example -> file.php)
         include 'footer.php';
     ?> 
 
-</body>
-</html>
+    </body>
+    </html>
