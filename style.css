@@ -64,6 +64,7 @@ body {
 .footerleft {
   float: left;
   padding-left:5px;
+  font-size: 15px;
 }
 .footerright {
   float: right;
@@ -76,7 +77,7 @@ body {
   text-align: center;
   padding: 12px;
   text-decoration: none;
-  font-size: 18px; 
+  font-size: 15px; 
   line-height: 25px;
   border-radius: 4px;
 }

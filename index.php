@@ -24,7 +24,7 @@
   <p> this is some sample text!</p>
 
 <?php
-    include 'footfile.php';
+    include 'footer.php';
 ?> 
 
 </body>
